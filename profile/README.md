@@ -1,4 +1,4 @@
-# Hello and welcome to 404 Development 🙌🏻 [ ![Views](https://gpvc.arturio.dev/fhfDev) ![GitHub Org's stars](https://img.shields.io/github/stars/fhfDev) ]
+# Hello and welcome to 404 Development 🙌🏻
 
 We are pleased you are browsing our profile, and we hope you will find our projects interesting. 
 
